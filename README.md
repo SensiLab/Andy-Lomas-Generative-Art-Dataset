@@ -44,7 +44,7 @@ foodIncMin | developmental gene parameter 11
 foodIncRand | developmental gene parameter 12
 
 ### Categories
-There are 8 artist-assigned categories for each image. Categories represent the general visual class discovered through exploration of the generative system.
+There are 8 artist-assigned categories, representing the general visual class discovered through exploration of the generative system. Each image has a single assigned category.
 
 Category | Number of Images
 ------------ | -------------
