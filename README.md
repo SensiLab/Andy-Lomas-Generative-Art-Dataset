@@ -43,6 +43,26 @@ collisionStrength | developmental gene parameter 10
 foodIncMin | developmental gene parameter 11
 foodIncRand | developmental gene parameter 12
 
+### Categories
+There are 8 artist-assigned categories for each image. Categories represent the general visual class discovered through exploration of the generative system.
+
+Category | Number of Images
+------------ | -------------
+brain | 317
+mess | 539
+nogrowth | 154
+ballon | 169
+animal | 104
+black | 251
+worms | 53
+plant | 187
+
+Here is a visual map of each category in phenotype space. The image is dimensionally reduced from 2048 features to the 2D point in the plot using the t-SNE algorithm:
+
+![Phenotype Map by Category](./Images/PhenotypeByCat.png) 
+
+
+
 ## Images
 The images are in the Image directory, the names correspond to those in the dataset csv file.
 
@@ -53,4 +73,4 @@ The original images are too big to be stored on Github so can be downloaded from
 ## References
 [1] Lomas, A.: Cellular forms: An artistic exploration of morphogenesis. In: *AISB 2014 - 50th Annual Convention of the AISB* (2014)
 
-[2] Lomas, A.: Species explorer: An interface for artistic explorationof multi-dimensional parameter spaces.   In: J. Bowen, N. Lambert, G. Diprose (eds.) *Electronic Visualisation and the Arts (EVA2016)*, Electronic Workshops in Computing (eWiC). BCS Learning and Development Ltd., London (2016)
+[2] Lomas, A.: Species explorer: An interface for artistic exploration of multi-dimensional parameter spaces.   In: J. Bowen, N. Lambert, G. Diprose (eds.) *Electronic Visualisation and the Arts (EVA2016)*, Electronic Workshops in Computing (eWiC). BCS Learning and Development Ltd., London (2016)
