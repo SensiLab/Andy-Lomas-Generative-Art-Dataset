@@ -5,8 +5,8 @@ Repository of a generative art dataset by computer artist Andy Lomas.
 ![Lomas Image](./Images/LomasImage.jpg)
 
 This repository contains a collection of 1,774 images created by computational artist [Andy Lomas](http://www.andylomas.com/).
-The images were created using a customised cell growth model developed by the Artist [1](#references).
-Forms were evolved using Lomas' *Species Explorer* software [2](#references).
+The images were created using a customised cell growth model developed by the Artist [[1](#references)].
+Forms were evolved using Lomas' *Species Explorer* software [[2](#references)].
 In addition to the images, a csv file contains information on the parameters used to generate each form, along with an artist-assigned aesthetic ranking (0-10) and categorisation.
 
 This dataset is provided for research purposes under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
@@ -47,6 +47,8 @@ foodIncRand | developmental gene parameter 12
 The images are in the Image directory, the names correspond to those in the dataset csv file.
 
 `imageThumbs.tgz` contains thumbnail (128x128) versions of all the images.
+
+The original images are too big to be stored on Github so can be downloaded from [this link](https://drive.google.com/drive/folders/1JyzATmpVSVD59dXsUd7LhhV0EKtIVivH?usp=sharing).
 
 ## References
 [1] Lomas, A.: Cellular forms: An artistic exploration of morphogenesis. In: *AISB 2014 - 50th Annual Convention of the AISB* (2014)
