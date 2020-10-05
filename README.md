@@ -13,7 +13,7 @@ This dataset is provided for research purposes under the Creative Commons Attrib
 
 For more information on the dataset, please see the following papers:
 
-Jon McCormack and Andy Lomas, "Deep Learning of Individual Aesthetics", *Neural Computing and Applications*, (to appear), 2021.
+Jon McCormack and Andy Lomas, "Deep Learning of Individual Aesthetics", *Neural Computing and Applications*, DOI: 10.1007/s00521-020-05376-72020 [Paper on SpringerLink](http://link.springer.com/article/10.1007/s00521-020-05376-7) or [Preprint on arxiv](https://arxiv.org/abs/2009.12216)
 
 Jon McCormack and Andy Lomas, Understanding Aesthetic Evaluation using Deep Learning, In: Romero J., et al.(eds) *Artificial Intelligence in Music, Sound, Art and Design.* EvoMUSART 2020. LNCS vol 12103. Springer, Cham (2020), [Paper on arxiv](https://arxiv.org/abs/2004.06874)
 
